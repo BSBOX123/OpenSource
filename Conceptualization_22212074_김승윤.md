@@ -35,6 +35,12 @@ Yeungnam University
     <td align="center">Conceptualization 목차 정밀 정렬 및 Use case/Concept 항목 세분화(10종), Problem statement 현실화</td>
     <td align="center">Gimseung-yun</td>
   </tr>
+  <tr>
+    <td align="center">2026.03.27</td>
+    <td align="center">1.0.2</td>
+    <td align="center">타이틀 표지 및 Business purpose 통계 인포그래픽, System context diagram도식 추가, 전체 페이지 레이아웃 최적화</td>
+    <td align="center">Gimseung-yun</td>
+  </tr>
 </table>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
