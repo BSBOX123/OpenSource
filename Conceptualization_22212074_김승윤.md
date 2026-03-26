@@ -90,7 +90,7 @@ Yeungnam University
 
 아래는 프로젝트의 system context diagram과 시스템 간 상호작용하는 데이터 흐름의 세부 항목이다.
 
-*(참고: 시스템 구조도 이미지 삽입 영역)*
+![System Context Diagram](./images/system_diagram.png)
 
 [그림 2-1] System context diagram
 
