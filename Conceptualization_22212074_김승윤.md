@@ -78,7 +78,8 @@ Yeungnam University
 
 <br/><br/>
 <div align="center">
-  <img src="./images/college_student_survey.png" alt="대학생 신년 계획 작심삼일 실태 조사 인포그래픽. 70.2% 실패, 30% 성공" width="600"/>
+  
+  <img src="./images/college_student_survey.png" alt="대학생 신년 계획 작심삼일 실태 조사 인포그래픽. 70.2% 실패, 30% 성공" width="800"/>
   <br/>
   [그림 1-1] 대학생 신년 계획 작심삼일 실태 조사 (출처: 알바인)
   <br/>
@@ -101,7 +102,6 @@ Yeungnam University
 * **주 타겟:** 일정 관리에 어려움을 겪고 즉각적인 동기 부여가 필요한 대학생 및 수험생.
 * **핵심 가치:** 앱 내 재화(Gold)를 야구 예매권, PC 부품 구매 등 '현실의 맞춤형 보상'으로 교환하는 실질적 효용성 제공.
 
-<br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/>
 
 - 4 -
