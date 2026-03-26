@@ -1,9 +1,12 @@
 <div align="center">
-  <br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/>
   <h1>Survive The Semester (학기 생존기)</h1>
   <br/>
+  <img src="./images/title.png" alt="Title Visual" width="400" height="400"/>
+  <br/>
   <h3>- 1. Conceptualization -</h3>
-  <br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </div>
 
 - 1 -
@@ -34,7 +37,9 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 - 2 -
 Yeungnam University
@@ -45,15 +50,22 @@ Yeungnam University
 
 <h3>
 <code>1. Business purpose ......................................................... 4</code><br/>
+  <br/>
 <code>2. System context diagram ................................................... 5</code><br/>
+  <br/>
 <code>3. Use case list ............................................................ 6</code><br/>
+  <br/>
 <code>4. Concept of operation ..................................................... 8</code><br/>
+  <br/>
 <code>5. Problem statement ....................................................... 11</code><br/>
+  <br/>
 <code>6. Glossary ................................................................ 12</code><br/>
+  <br/>
 <code>7. References .............................................................. 13</code>
 </h3>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 - 3 -
 Yeungnam University
@@ -63,13 +75,23 @@ Yeungnam University
 ## 1. Business purpose
 
 **1) Project background**<br/>
-대학 생활을 하다 보면 하루하루 해야 할 일들이 많다. 과제부터 시작해서 전공 공부, 자격증, 어학 공부, 운동 등 수많은 일에 치여 살아간다. 이러한 일들을 효율적으로 수행하기 위해서는 해야 할 일들을 분류하고 정리하여 일정을 관리해야 하지만, 실제로 플래너를 만들어 꼼꼼히 관리하는 사람은 드물다. 일정을 관리하지 않는 가장 큰 이유는 '귀찮음'과 '중요성 인지의 부재'일 것이다. 플래너를 만들 시간에 당장 눈앞의 할 일을 하겠다거나, 플래너 없이도 잘 해낼 수 있다고 생각하기 때문이다. 하지만 꾸준히 장기적으로 목표를 달성하기 위해서는 체계적인 플랜이 필수적이다. 
 
-그렇기에 귀찮음과 중요성의 부재를 이겨낼 매력적인 플래너를 만들기 위해, 게임의 형태와 플래너의 기능을 결합한 '학기 생존기(Survive The Semester)' 앱 개발 프로젝트를 구상했다. 기존의 단순한 체크리스트 형태의 'To-do 앱'들은 일정을 단순히 나열할 뿐, 사용자의 자발적인 참여와 성취를 이끌어내는 즉각적인 보상 체계가 부족했다. 본 프로젝트는 사용자의 일상적인 '과제 수행'을 '몬스터 사냥 및 생존'이라는 RPG) 메커니즘으로 치환하여 이 한계를 극복하고자 한다. 
+<br/><br/>
+<div align="center">
+  <img src="./images/college_student_survey.png" alt="대학생 신년 계획 작심삼일 실태 조사 인포그래픽. 70.2% 실패, 30% 성공" width="600"/>
+  <br/>
+  [그림 1-1] 대학생 신년 계획 작심삼일 실태 조사 (출처: 알바인)
+  <br/>
+</div>
+<br/>
+
+대학 생활을 하다 보면 전공 공부, 과제, 자격증, 어학 등 수많은 일에 치여 살아간다. 이를 효율적으로 수행하기 위해서는 일정을 관리해야 하지만, 꾸준히 플래너를 작성하고 실천하는 사람은 드물다. 실제로 취업 포털인 '알바인'의 대학생 대상 설문조사에 따르면, 응답자의 약 70%가 계획을 일주일도 지키지 못하는 '작심칠일'을 겪는다고 답했으며, 시간을 허비하는 가장 큰 원인 1위로 '귀차니즘(게으름)'을 꼽았다. 
+
+이는 단순한 의지의 문제를 넘어, 기존의 체크리스트 형태의 플래너들이 '귀찮음'을 이겨낼 만한 즉각적인 보상이나 동기를 제공하지 못하기 때문이다. 따라서 본 프로젝트는 귀찮음을 극복할 강력한 동기 부여를 위해, 게임의 형태와 플래너의 기능을 결합한 '학기 생존기(Survive The Semester)' 앱을 기획하였다. 기존의 단순한 체크리스트 형태의 'To-do 앱'들은 일정을 단순히 나열할 뿐, 사용자의 자발적인 참여와 성취를 이끌어내는 즉각적인 보상 체계가 부족했다. 본 프로젝트는 사용자의 일상적인 '과제 수행'을 '몬스터 사냥 및 생존'이라는 RPG) 메커니즘으로 치환하여 이 한계를 극복하고자 한다. 
 
 사용자는 앱 내에서 하나의 아바타가 되며, 과제를 완수할 시 경험치(EXP)와 재화(Gold)를 획득한다. 반대로 마감일을 초과할 경우 체력(HP)이 감소하는 페널티를 부여받음으로써, 억지로 일정을 관리하는 것이 아니라 게임을 즐기듯 능동적으로 일정을 수행하게 된다. 일정 관리에 어려움을 겪고 확실한 동기 부여가 필요한 대학생 및 일반 수험생들이 이 앱의 주 타겟이다. 
 
-무엇보다 이 앱의 가장 큰 차별점은 가상의 성취를 현실로 끌어온다는 점이다. 사용자는 획득한 시스템 내 재화(Gold)를 통해 '야구장 직관 예매권', 'PC 하드웨어 업그레이드', '자유 휴식 시간' 등 자신이 미리 설정해 둔 맞춤형 현실 보상(Custom Reward)을 상점에서 교환할 수 있다. 이를 통해 단순한 일정 관리를 넘어, 사용자에게 실질적이고 강력한 동기를 부여하는 효용성 있는 서비스를 제공하는 것을 궁극적인 목표로 한다.
+무엇보다 이 앱의 가장 큰 차별점은 가상의 성취를 현실로 끌어온다는 점이다. 사용자는 획득한 시스템 내 재화(Gold)를 통해 '야구장 직관 예매권', 'PC 하드웨어 업그레이드', '자유 휴식 시간' 등 자신이 미리 설정해 둔 맞춤형 현실 보상(Custom Reward) 상점에서 교환할 수 있다. 이를 통해 단순한 일정 관리를 넘어, 사용자에게 실질적이고 강력한 동기를 부여하는 효용성 있는 서비스를 제공하는 것을 궁극적인 목표로 한다.
 
 **2) Goal**<br/>
 * **RPG 메커니즘 도입:** 과제 수행을 몬스터 사냥으로 치환하여 즉각적인 보상(EXP, Gold)과 페널티(HP 차감) 부여.
@@ -79,7 +101,8 @@ Yeungnam University
 * **주 타겟:** 일정 관리에 어려움을 겪고 즉각적인 동기 부여가 필요한 대학생 및 수험생.
 * **핵심 가치:** 앱 내 재화(Gold)를 야구 예매권, PC 부품 구매 등 '현실의 맞춤형 보상'으로 교환하는 실질적 효용성 제공.
 
-<br/>
+<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 - 4 -
 Yeungnam University
@@ -229,7 +252,7 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 - 6 -
 Yeungnam University
@@ -304,7 +327,7 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 - 7 -
 Yeungnam University
@@ -379,7 +402,7 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 - 8 -
 Yeungnam University
@@ -450,12 +473,7 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/>
-
-- 9 -
-Yeungnam University
-
---- 
+<br/>
 
 **7) 상점 아이템 구매 (Buy item - 셀프 보상 교환)**
 <table>
@@ -478,6 +496,11 @@ Yeungnam University
 </table>
 
 <br/>
+
+- 9 -
+Yeungnam University
+
+--- 
 
 **8) 일일 퀘스트 자정 갱신 (Generate daily quest)**
 <table>
@@ -505,7 +528,7 @@ Yeungnam University
 <table>
   <tr>
     <th width="150" align="left">Purpose</th>
-    <td width="650">과제를 미루는 사용자에게 손실 회피 심리를 자극하여 행동을 강제한다.</td>
+    <td width="650">과제를 미루는 사용자에게 손실 회피 심리를 자극하여 행동 강제한다.</td>
   </tr>
   <tr>
     <th align="left">Approach</th>
@@ -521,12 +544,7 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/>
-
-- 10 -
-Yeungnam University
-
---- 
+<br/>
 
 **10) 마감일 임박 경고 알림 (Alert penalty)**
 <table>
@@ -548,13 +566,20 @@ Yeungnam University
   </tr>
 </table>
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/>
+
+- 10 -
+Yeungnam University
+
+--- 
+
+
 
 ## 5. Problem statement
 
 시스템은 사용자의 과제 일정을 파악하여 우선순위에 따라 분류하고, RPG 게임 요소를 통해 상호작용해야 한다. 아래는 학부 전공생 수준의 프로젝트에서 이 앱을 실제로 개발하기 위해 해결해야 할 현실적인 문제와 구현 방향이다.
 
-**5.1 과제 우선순위 알고 준용**<br/>
+**5.1 과제 우선순위 알고리즘 적용**<br/>
 과제가 여러 개 있을 때 어떤 것부터 해야 할지 시스템이 합리적으로 결정해 주어야 한다. 단순히 날짜순으로 나열하는 것을 넘어, 마감일이 며칠 남았는지와 사용자가 입력한 난이도를 계산해야 한다. 이를 통해 가장 시급한 퀘스트를 리스트 최상단에 올려주는 정렬 로직을 버그 없이 정확하게 구현하는 것이 핵심 과제이다.
 
 **5.2 앱 종료 시의 시간 흐름과 페널티 처리**<br/>
@@ -566,7 +591,7 @@ RPG 게임의 재미를 살리려면 레벨업에 맞춰 진화하는 아바타 
 **5.4 데이터 저장 및 사용자 편의성 (NFRS)**<br/>
 앱을 껐다 켜도 플레이어의 레벨과 과제 목록이 초기화되지 않아야 한다. 복잡한 외부 서버를 구축하고 연동하는 대신, 안드로이드 기기 내부의 로컬 데이터베이스(SQLite)를 활용해 개발 비용 없이 데이터를 안전하고 빠르게 저장한다. 또한, 사용자 인터페이스(GUI)는 "Simple is best" 라는 원칙에 따라 복잡한 설명 없이도 직관적으로 퀘스트를 추가하고 완료(공격)할 수 있도록 구현해야 한다.
 
-<br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 - 11 -
 Yeungnam University
@@ -616,7 +641,7 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 - 12 -
 Yeungnam University
@@ -630,6 +655,10 @@ Yeungnam University
 2) Java Platform, Standard Edition Documentation (Oracle)
    https://docs.oracle.com/en/java/
 3) "Introduction to Algorithms, 3rd Edition" (Thomas H. Cormen) - 우선순위 큐(Priority Queue) 구현 참조
+4) 4) "새해 계획 얼마나 지켰나?…대학생 70% '작심삼일'", 노컷뉴스, 2014.01.10.
+   https://www.nocutnews.co.kr/news/1165007
+5) "대학생이 꼽은 시간 허비 이유 '1위 귀차니즘'", 서울시티, 2014.02.28.
+   http://www.seoulcity.co.kr/news/articleView.html?idxno=121398
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
