@@ -5,8 +5,8 @@
   <img src="./images/title.png" alt="Title Visual" width="400" height="400"/>
   <br/>
   <h3>- 1. Conceptualization -</h3>
-  <br/><br/><br/><br/><br/><br/><br/><br/>
-  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/>
 </div>
 
 - 1 -
@@ -43,9 +43,9 @@ Yeungnam University
   </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 - 2 -
 Yeungnam University
@@ -55,23 +55,23 @@ Yeungnam University
 ## [ Contents ]
 
 <h3>
-<code>1. Business purpose ......................................................... 4</code><br/>
+<code>1. Business purpose ................................................ 4</code><br/>
   <br/>
-<code>2. System context diagram ................................................... 5</code><br/>
+<code>2. System context diagram .......................................... 5</code><br/>
   <br/>
-<code>3. Use case list ............................................................ 6</code><br/>
+<code>3. Use case list ................................................... 6</code><br/>
   <br/>
-<code>4. Concept of operation ..................................................... 8</code><br/>
+<code>4. Concept of operation ............................................ 8</code><br/>
   <br/>
-<code>5. Problem statement ....................................................... 11</code><br/>
+<code>5. Problem statement .............................................. 11</code><br/>
   <br/>
-<code>6. Glossary ................................................................ 12</code><br/>
+<code>6. Glossary ....................................................... 12</code><br/>
   <br/>
-<code>7. References .............................................................. 13</code>
+<code>7. References ..................................................... 13</code>
 </h3>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 - 3 -
 Yeungnam University
