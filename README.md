@@ -27,19 +27,19 @@ Yeungnam University
     <td align="center">2026.03.25</td>
     <td align="center">1.0.0</td>
     <td align="center">Conceptualization 초안 작성</td>
-    <td align="center">Kimseung-yun</td>
+    <td align="center">Seungyun-Kim</td>
   </tr>
     <tr>
     <td align="center">2026.03.26</td>
     <td align="center">1.0.1</td>
     <td align="center">Conceptualization 목차 정밀 정렬 및 Use case/Concept 항목 세분화(10종), Problem statement 현실화</td>
-    <td align="center">Kimseung-yun</td>
+    <td align="center">Seungyun-Kim</td>
   </tr>
   <tr>
     <td align="center">2026.03.27</td>
     <td align="center">1.0.2</td>
     <td align="center">타이틀 표지 및 Business purpose 통계 인포그래픽, System context diagram도식 추가, 전체 페이지 레이아웃 최적화</td>
-    <td align="center">Kimseung-yun</td>
+    <td align="center">Seungyun-Kim</td>
   </tr>
 </table>
 
