@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FFFDE7"> <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="🛍️ 셀프 보상 상점"
+    android:textSize="24sp"
+    android:textStyle="bold"
+    android:textColor="#333333"
+    android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvShopPlayerGold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="내 보유 Gold: 0 G"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#FF9800"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🎁 골드를 소모하여 원하는 보상을 획득하세요! (클릭 시 구매)"
+        android:textSize="13sp"
+        android:textColor="#666666"
+        android:layout_marginBottom="12dp"/>
+
+    <ListView
+        android:id="@+id/lvShopItems"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="#E0E0E0"
+        android:dividerHeight="1dp"/>
+
+    <Button
+        android:id="@+id/btnBackToMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🔙 메인 화면으로 돌아가기"
+        android:backgroundTint="#b4c6e7"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
